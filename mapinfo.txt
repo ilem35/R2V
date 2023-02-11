@@ -1,0 +1,113 @@
+The following is a partial list of Projection Systems supported by
+MapInfo software. You can enter your own projection system record directly
+in R2V or choose one of the records listed here and enter into
+R2V when exporting to a MIF file. The MIF file is in ASCII format
+so you can change this at any time using a regular text editor.
+
+Note: 1. Lines that start with a ## are comments only and not Projection
+System parameters. 
+      2. Some records extends to two lines because of length, please include 
+them all and treat them as one line when entering into R2V.
+
+
+##"--- Non-Earth ---"
+
+"Non-Earth (inches)", 0, 2
+
+"Non-Earth (feet)", 0, 3
+
+"Non-Earth (yards)", 0, 4
+
+"Non-Earth (miles)", 0, 0
+
+"Non-Earth (millimeters)", 0, 5
+
+"Non-Earth (centimeters)", 0, 6
+
+"Non-Earth (meters)", 0, 7
+
+"Non-Earth (kilometers)", 0, 1
+
+##"--- Projections of the World ---"
+
+"Behrmann Cylindrical Equal-Area", 2, 62, "m", 0, 30
+
+"Eckert IV (Equal-Area)", 14, 62, "m", 0
+
+"Eckert VI (Equal-Area)", 15, 62, "m", 0
+
+"Gall", 17, 62, "m", 0
+
+"Mercator", 10, 62, "m", 0
+
+"Miller Cylindrical", 11, 62, "m", 0
+
+"Mollweide (Equal-Area)", 13, 62, "m", 0
+
+"Robinson", 12, 62, "m", 0
+
+"Sinusoidal (Equal-Area)", 16, 62, "m", 0
+
+##Projection systems  used in France (partial list) :
+##-----------------------------------------------------------------
+##"---- France IGN ----"
+
+"Lambert I Carto",3,999,6,-168,-60,320,7,2.337229104484,49.5,
+	48.60258453428,50.39741546572,600000,1200000
+
+"Lambert II Carto",3,999,6,-168,-60,320,7,2.337229104484,46.8,
+	45.90287723937,47.69712276063,600000,2200000
+
+"Lambert III Carto",3,999,6,-168,-60,320,7,2.337229104484,44.1,
+	43.20317004,44.99682996,600000, 3200000
+
+"Lambert IV Carto",3,999,6,-168,-60,320,7,2.337229104484,42.165,
+	41.56249184952,42.76750815048,234.358,4185861.369
+
+"Lambert I Nord",3,999,6,-168,-60,320,7,2.337229104484,49.5,
+	48.60258453428,50.39741546572,600000,200000
+
+"Lambert II Centre",3,999,6,-168,-60,320,7,2.337229104484,
+	46.8,45.90287723937,47.69712276063,600000,200000
+
+"Lambert III Sud",3,999,6,-168,-60,320,7,2.337229104484,
+	44.1,43.20317004,44.99682996,600000,200000
+
+"Lambert IV Corse",3,999,6,-168,-60,320,7,2.337229104484,
+	42.165,41.56249184952,42.76750815048,234.358,185861.369
+
+##----------------------------------------------------------------------
+##"--- Longitude / Latitude ---", 0, 0, 0, 0., 0., 0., 0., 0., 0., 0., 0.
+
+"Longitude / Latitude", 1, 0
+
+"Longitude / Latitude (AGD 66)", 1, 12
+
+"Longitude / Latitude (Belgium)", 1, 110
+
+"Longitude / Latitude (ED 50)", 1, 28
+
+"Longitude / Latitude (Ireland 65)", 1, 42
+
+"Longitude / Latitude (NAD 27 for US)", 1, 62
+
+"Longitude / Latitude (NAD 27 for Canada)", 1, 66
+
+"Longitude / Latitude (NAD 83)", 1, 74
+
+"Longitude / Latitude (Netherlands)", 1, 109
+
+"Longitude / Latitude (OSGB 36)", 1, 79
+
+"Longitude / Latitude (Rome 1940)", 1, 87
+
+"Longitude / Latitude (RT 90)", 1, 112
+
+"Longitude / Latitude (Tokyo)", 1, 97
+
+"Longitude / Latitude (WGS 84)", 1, 104
+
+
+
+
+

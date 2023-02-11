@@ -1,0 +1,33 @@
+:Base R2v
+:Title R2V Help System
+1 About R2V
+2 Introduction=r2v@.\r2v.hlp
+2 Technical Support=support@.\r2v.hlp
+2 Installation=install@.\r2v.hlp
+2 User Interface=interface@.\r2v.hlp
+1 Getting Started
+2 30 minutes tutorial=tutorial@.\r2v.hlp
+1 Frequently Asked Questions
+2 How do I georeference the vectorized data?=faq1@.\r2v.hlp
+2 How does R2V compare to manual tracing?=faq2@.\r2v.hlp
+2 how do I extract vector data from a scanned color aerial photo using R2V?=faq3@.\r2v.hlp
+2 How do I merge sections together in R2V?=faq4@.\r2v.hlp
+2 What can be done when a TIFF file is not compatible?=faq5@.\r2v.hlp
+2 How to process a 24-bit color image?=faq6@.\r2v.hlp
+2 What scanners are best for R2V? Do I need to buy one?=faq7@.\r2v.hlp
+2 How to apply control points to georeference?=faq8@.\r2v.hlp
+2 Can R2V vectorize a selected region of an image?=faq9@.\r2v.hlp
+2 How to close polygons in R2V?=faq10@.\r2v.hlp
+2 How to enter text labels within polygons in R2V?=faq11@.\r2v.hlp
+2 How to use R2V's OCR engine to handle text?=faq12@.\r2v.hlp
+2 How to segment a greyscale image and vectorize?=faq13@.\r2v.hlp
+2 How to simplify intersection symbols in R2V?=faq14@.\r2v.hlp
+2 How to do Image Warping and Geo-Referencing?=faq15@.\r2v.hlp
+1 Menu and commands
+2 File Menu=menu_file@.\r2v.hlp
+2 Edit Menu=menu_edit@.\r2v.hlp
+2 View Menu=menu_view@.\r2v.hlp
+2 Image Menu=menu_image@.\r2v.hlp
+2 Vector Menu=menu_vector@.\r2v.hlp
+2 Widow Menu=menu_window@.\r2v.hlp
+2 Help Menu=menu_help@.\r2v.hlp
